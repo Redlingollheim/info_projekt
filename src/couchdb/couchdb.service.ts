@@ -7,7 +7,7 @@ export class CouchDBService {
   public db: Nano.DocumentScope<any>;
 
   constructor() {
-    const nano: Nano.ServerScope = Nano('http://adminius3:12345678@localhost:5984');
+    const nano: Nano.ServerScope = Nano('http://admin:123456@localhost:5984');
     this.db = nano.db.use('info_db');
   }
 
