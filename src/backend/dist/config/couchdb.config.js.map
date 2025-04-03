@@ -1,1 +1,0 @@
-{"version":3,"file":"couchdb.config.js","sourceRoot":"","sources":["../../src/config/couchdb.config.ts"],"names":[],"mappings":";;;AAAa,QAAA,aAAa,GAAG;IACzB,GAAG,EAAE,OAAO,CAAC,GAAG,CAAC,WAAW,IAAI,uBAAuB;IACvD,IAAI,EAAE;QACJ,QAAQ,EAAE,OAAO,CAAC,GAAG,CAAC,YAAY,IAAI,OAAO;QAC7C,QAAQ,EAAE,OAAO,CAAC,GAAG,CAAC,gBAAgB,IAAI,UAAU;KACrD;IACD,iBAAiB,EAAE,gBAAgB;CACpC,CAAC"}
